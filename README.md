@@ -12,3 +12,5 @@ En este proyecto grupal, nos enfocamos en el análisis de secuencias de ARN para
 * Detectar variantes genéticas: Buscar posibles mutaciones, splicing alternativo u otras alteraciones en las secuencias de ARN.
 
 * Explorar transcripciones novedosas: Identificar ARN previamente no descritos o poco estudiados.
+
+### Instrucciones de uso:
