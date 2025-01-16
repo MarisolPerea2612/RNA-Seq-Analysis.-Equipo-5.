@@ -16,3 +16,5 @@ En este proyecto grupal, nos enfocamos en el análisis de secuencias de ARN para
 ### Instrucciones de uso:
 
 Para llevar a cabo el análisis de secuencias de ARN, sigue los pasos principales: primero, prepara las muestras de ARN y realiza su secuenciación utilizando una plataforma como Illumina. Luego, utiliza herramientas bioinformáticas para procesar los datos crudos, comenzando con la limpieza de las secuencias para eliminar adaptadores y lecturas de baja calidad. Alinea las secuencias contra un genoma de referencia o ensambles de novo, y cuantifica los niveles de expresión génica. Posteriormente, realiza análisis diferenciales para identificar genes expresados diferencialmente bajo distintas condiciones. Finalmente, interpreta los resultados utilizando bases de datos funcionales, herramientas de anotación y visualización para obtener conclusiones biológicas relevantes.
+
+###  Información Relevante:
